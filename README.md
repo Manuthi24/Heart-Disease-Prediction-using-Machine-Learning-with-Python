@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Prediction using Machine Learning with Python
+
 
 ![Python](https://img.shields.io/badge/Python-Machine%20Learning-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Supervised%20Learning-green)
