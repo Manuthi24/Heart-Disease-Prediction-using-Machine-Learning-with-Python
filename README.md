@@ -1,5 +1,17 @@
 # 🫀 Heart Disease Prediction using Machine Learning with Python
 
+![Python](https://img.shields.io/badge/Python-Machine%20Learning-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Supervised%20Learning-green)
+![Scikit‑Learn](https://img.shields.io/badge/Scikit--Learn-Modeling-yellow)
+![Data Visualization](https://img.shields.io/badge/Data‑Visualization-red)
+![EDA](https://img.shields.io/badge/EDA‑Exploratory%20Data%20Analysis-lightgrey)
+![Model Deployment](https://img.shields.io/badge/Deployment‑Ready%20App-orange)
+![Healthcare Analytics](https://img.shields.io/badge/Healthcare‑Analytics‑ML-purple)
+![Portfolio Project](https://img.shields.io/badge/Type‑Portfolio%20Project-important)
+
+
+# 🫀 Heart Disease Prediction using Machine Learning with Python
+
 This project uses machine learning to predict the presence of heart disease in patients based on clinical data. It demonstrates the full data science workflow — from data preprocessing and model training to prediction and evaluation.
 
 ---
